@@ -11,6 +11,8 @@ Hail **The Grimoire of Astaroth** as it will help us defeat him!
 
 - **1-1**:
 	- *CSN-103*: Object Oriented Programming
+- **1-2**:
+	- *CSN-102*: Data Structures and Algorithms
 - **2-1**:
   	- *CSN-221*: Computer Achitecture and Microprocessors
 	- *CSN-261*: Data Structures Laboratory
