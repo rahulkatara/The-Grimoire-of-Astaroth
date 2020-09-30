@@ -1,0 +1,1 @@
+Study Different Architectures apart from Von Nuemann Model and Data Flow Model. A typical example could be Quantum Computing Architectures. You could explore more options to understand the essence of the architecture differences. More architectures study ==> More Marks. 
