@@ -1,0 +1,77 @@
+## Grady Booch
+
+- Nature of an Object- 3.1
+	- What is an object?
+	- Properties of OOP
+	- Class as ADD (Abstract Data Type)
+	- Abstract Classes
+	- 3 elements of OOP
+	- OO Requirements
+	- Methods and Messages
+	- Operations supported by an object
+	- 3 components of object: State, Behaviour, Identity
+
+- Relationship b/w OOA, OOD, and OOP - 2.1
+- Elements of the object model - 2.2
+	- Major: Abstraction, Encapsulation, Modularity, Hierarchy
+	- Minor: Typing, Concurrency, Persistance
+	- Difference between abstraction and encapsulation
+	- Static and Dynamic 
+- Benefits of OOM - 2.3
+- Relationship among objects -3.2
+	- Links
+	- Association
+
+- Nature of a class - 3.3
+	- Interfaces and implementation
+- Relationship among classes -3.4
+	- Different types
+		- Inheritance
+		- Aggresgation
+		- Composition
+		- Metaclass
+	- Inheritance
+	- Multiple inheritance
+	- Polymorphism
+		- Static and Dynamic Binding with example
+	- what relation? someone please clarify the name
+	- Association relationship (3-ary and n-ary) 
+	- association vs link
+	- Aggregation relation
+	- Compostion
+	- Polymorphism and Class dependency
+	- Inheritance relationship with polymorphism
+	- Aggregation vs Inheritance
+	- Aggregation vs Composition
+	- Class dependency and polymorphism
+	- Static and Dynamic binding
+	- Instantiation etc...
+- Quality of Design for Classes and Objects 3.5.
+	- Relationships between classes and ojects
+	- Role of Class and object in design
+- Measuring the quality of class and object design - 3.6
+	- Coherence
+	- Suffieciency
+	- Completence
+	- Law of Demeter
+- General advantages of OOD
+- UML : 5th chapter in Grady Booch
+	- You can refer any other book though, concepts are the same
+	- What is UML?
+	- Origin of UML
+	- How has UML has emerge from OOSC and somethin else and Booch methodology
+	- Importance of UML modeling
+		- Why are they required?
+	- UML Diagrams
+		- UML Model Views
+			- User
+			- Structural
+			- Behavioural
+			- I
+			- Environmental
+		- Where and why are each view required?
+		- Other classiffication of views:
+			- Static
+			- Dynamic
+		- Use Case model (very important model)
+			- Half of use case is completed so far
