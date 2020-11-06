@@ -1,9 +1,7 @@
 # The Grimoire of Astaroth
 ---
 
-The era of the Duke of Hell crushing our hopes of a 'dassi', is about to end, as we have shanghaied his invictus telum.
-
-Hail **The Grimoire of Astaroth** as it will help us defeat him!
+\* Insert cheesy yet fitting description here \*
 
 ---
 
